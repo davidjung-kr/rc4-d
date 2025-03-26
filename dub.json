@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"David Jung(github.com/davidjung-kr)"
+	],
+	"targetType":"library",
+	"copyright": "Copyright © 2025, David Jung",
+	"description": "Simple RC4 Encryption/Decryption Library.",
+	"license": "LGPL-2.1",
+	"name": "rc4-d"
+}

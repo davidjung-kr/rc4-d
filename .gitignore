@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/rc4-d
+rc4-d.so
+rc4-d.dylib
+rc4-d.dll
+rc4-d.a
+rc4-d.lib
+rc4-d-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+dub.selections.json
